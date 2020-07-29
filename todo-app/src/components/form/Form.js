@@ -17,7 +17,7 @@ import '../form/Form.css'
         this.props.parentCallback(this.state.itemData);
         event.preventDefault();  
         this.setState({
-            itemData: ""
+            itemData: ''
         })
     }
         
