@@ -1,0 +1,22 @@
+.form-input{
+    margin-top: 20px;
+
+    padding-bottom:20px;
+}
+
+.listItem{
+    margin-bottom: 20px;
+    margin: auto;
+    padding: 5px;
+    background-color: seagreen;
+    color: white;
+    width: 66%;
+
+}
+
+.delbtn{
+    margin:auto;
+    float: right;
+    background-color: seagreen;
+    border: none;
+}
